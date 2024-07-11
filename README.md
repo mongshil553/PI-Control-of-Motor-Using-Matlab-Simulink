@@ -15,7 +15,7 @@ After Calculation, the transfer function of the plant is equal to the equation a
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/e057234a-53cb-4ecb-b08f-1346bc689ab8" width="30%" height="30%" title="Matlab Step Response">
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/bb9578fd-cb64-40b2-8915-f3c754cbd17a" width="42%" height="42%" title="Simulink Step Response">
 </div>
-<br> Steady State Error exists. <br>
+<br> Steady State Error exists. Also, ziegler nichols method cannot be applied to this plant.<br>
 
 <hr>
 <h2>Root Locus</h2>
@@ -33,4 +33,7 @@ The dominant poles are located near the origin.
 Using Matlab StepInfo(), we can calculate the overshoot, rise time, etc w.r.t Step Reference. <br>
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/1cbfd252-3617-4511-b5ab-6e8be98e1566" width="70%" height="70%" title="StepInfo"> <br>
 When Kp=1000, Ki=100, the feed back control showed the best performance.
+
+<hr>
+<h2>Simulink Simulation</h2>
 
