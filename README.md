@@ -36,4 +36,5 @@ When Kp=1000, Ki=100, the feed back control showed the best performance.
 
 <hr>
 <h2>Simulink Simulation</h2>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/78633a68-2611-4499-80f4-7e967222ad89" width="70%" height="70%" title="StepInfo"> <br>
 
