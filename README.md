@@ -1,4 +1,4 @@
-# PI-Control-of-motor-using-Matlab/Simulink
+# PI-Control-of-Motor-Using-Matlab/Simulink
 Using Matlab, design a control system for motor.
 
 <hr>
