@@ -15,3 +15,15 @@ After Calculation, the transfer function of the plant is equal to the equation a
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/b90864ed-8016-4ead-9613-07dc7b7e3717" width="30%" height="30%" title="Matlab Step Response">
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/bf450b54-0b87-4c6a-a233-81bc68ab5b1c" width="42%" height="42%" title="Simulink Step Response">
 </div>
+<br> Steady State Error exists. <br>
+
+<hr>
+<h2>PI Control</h2>
+Root Locus:<br>
+<div align="center">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/a56e248b-fa4a-42a5-b525-c8e73fd8b28e" width="60%" height="60%" title="Root Locus"> <br>
+  When Kp=Ki <br><br>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/e15f22bd-4d42-4a0c-8c6e-1d5ca27a5414" width="35%" height="35%" title="Root Locus"> <br>
+  When Kp=10Ki
+</div>
+
