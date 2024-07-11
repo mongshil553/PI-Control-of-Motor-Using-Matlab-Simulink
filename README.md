@@ -12,18 +12,25 @@ After Calculation, the transfer function of the plant is equal to the equation a
 <hr>
 <h2>Plant Step Response</h2>
 <div align="center">
-<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/b90864ed-8016-4ead-9613-07dc7b7e3717" width="30%" height="30%" title="Matlab Step Response">
-<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/bf450b54-0b87-4c6a-a233-81bc68ab5b1c" width="42%" height="42%" title="Simulink Step Response">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/e057234a-53cb-4ecb-b08f-1346bc689ab8" width="30%" height="30%" title="Matlab Step Response">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/bb9578fd-cb64-40b2-8915-f3c754cbd17a" width="42%" height="42%" title="Simulink Step Response">
 </div>
 <br> Steady State Error exists. <br>
 
 <hr>
-<h2>PI Control</h2>
-Root Locus:<br>
+<h2>Root Locus</h2>
+Using Matlab, we get the following Root Locus; <br>
 <div align="center">
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/a56e248b-fa4a-42a5-b525-c8e73fd8b28e" width="60%" height="60%" title="Root Locus"> <br>
   When Kp=Ki <br><br>
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/e15f22bd-4d42-4a0c-8c6e-1d5ca27a5414" width="35%" height="35%" title="Root Locus"> <br>
   When Kp=10Ki
 </div>
+The dominant poles are located near the origin.
+
+<hr>
+<h2>Perfomance Index</h2>
+Using Matlab StepInfo(), we can calculate the overshoot, rise time, etc w.r.t Step Reference. <br>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/1cbfd252-3617-4511-b5ab-6e8be98e1566" width="70%" height="70%" title="StepInfo"> <br>
+When Kp=1000, Ki=100, the feed back control showed the best performance.
 
