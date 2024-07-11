@@ -1,4 +1,3 @@
-%% 2020741030 박기정
 clc, clear;
 close all;
 
