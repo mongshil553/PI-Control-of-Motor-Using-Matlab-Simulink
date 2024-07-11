@@ -78,3 +78,7 @@ The following is the system model. <br>
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/10e92144-a3b2-4f04-9c22-7f0355d4a043" width="100%" height="100%" title="Model">
 
 <br><br>
+Result(Left) and Error(Right): <br>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/581f1066-31cd-4525-9306-4eafdf0ed808" width="100%" height="100%" title="Simulation Result">
+
+The error is very minimal.
