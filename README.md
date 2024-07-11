@@ -50,10 +50,19 @@ Correspondingly, Kp=1000, Ki=100 showed the best performance at tracking Step re
 
 <br>
 Sine Disturbance: <br>
-<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/6589171b-20e0-43b8-832e-2290b31b4798" width="70%" height="70%" title="Sine Disturbance">
-<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/0f9ecc1a-3b96-48ab-a96c-0240e4c51081" width="24%" height="24%" title="Sine Disturbance">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/6589171b-20e0-43b8-832e-2290b31b4798" width="72%" height="72%" title="Sine Disturbance">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/0f9ecc1a-3b96-48ab-a96c-0240e4c51081" width="26%" height="26%" title="Sine Disturbance">
 <br><br>
 
 Step Disturbance: <br>
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/87d21ea1-4f00-48a1-a9df-5b355f60e34f" width="100%" height="100%" title="Step Disturbance">
+<br><br>
+
+Ramp Disturbance: <br>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/71b2c723-9ea9-4ced-b4e9-d033f770ba4e" width="72%" height="72%" title="Sine Disturbance">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/5721b148-1e4d-4a9c-906e-8749ab5d25be" width="26%" height="26%" title="Sine Disturbance">
+<br><br>
+
+Parabola Disturbance: <br>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/29ca80e2-2d74-4338-b75b-e5b33e713141" width="100%" height="100%" title="Step Disturbance">
 <br><br>
