@@ -35,7 +35,7 @@ Using Matlab StepInfo(), we can calculate the overshoot, rise time, etc w.r.t St
 When Kp=1000, Ki=100, the feed back control showed the best performance.
 
 <hr>
-<h2>Reference Tracking</h2>
+<h2>Step Reference Tracking</h2>
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/78633a68-2611-4499-80f4-7e967222ad89" width="70%" height="70%" title="Design"> <br>
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/2a0d7b82-1a59-4d8e-8d59-5e800ba5e2b2" width="70%" height="70%" title="case i), ii)">
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/6bb0ce23-d70b-4c0a-80e4-ebe2df6c3fbb" width="70%" height="70%" title="case iii), iv)">
@@ -59,10 +59,22 @@ Step Disturbance: <br>
 <br><br>
 
 Ramp Disturbance: <br>
-<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/71b2c723-9ea9-4ced-b4e9-d033f770ba4e" width="72%" height="72%" title="Sine Disturbance">
-<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/5721b148-1e4d-4a9c-906e-8749ab5d25be" width="26%" height="26%" title="Sine Disturbance">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/71b2c723-9ea9-4ced-b4e9-d033f770ba4e" width="72%" height="72%" title="Ramp Disturbance">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/5721b148-1e4d-4a9c-906e-8749ab5d25be" width="26%" height="26%" title="Ramp Disturbance">
 <br><br>
 
 Parabola Disturbance: <br>
-<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/29ca80e2-2d74-4338-b75b-e5b33e713141" width="100%" height="100%" title="Step Disturbance">
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/29ca80e2-2d74-4338-b75b-e5b33e713141" width="100%" height="100%" title="Parabola Disturbance">
+<br><br>
+
+<hr>
+<h2>User Defined Reference Tracking</h2>
+The following is the signal defined which will be a reference. <br>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/83e7b40c-1ece-4597-8e8f-2cec3ce5a8ea" width="55%" height="55%" title="User Defined Reference">
+
+<br><br>
+
+The following is the system model. <br>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/10e92144-a3b2-4f04-9c22-7f0355d4a043" width="100%" height="100%" title="Model">
+
 <br><br>
