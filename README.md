@@ -1,5 +1,5 @@
 # PI-Control-of-Motor-Using-Matlab/Simulink
-Using Matlab, design a control system for motor.
+Using Matlab, design a PI control system for motor.
 
 <hr>
 <h2>Ciruit and Motor Free Body Diagrams</h3>
