@@ -1,5 +1,7 @@
 # PI-Control-of-Motor-Using-Matlab/Simulink
-Using Matlab, design a PI control system for motor.
+Using Matlab, design a PI control system for motor. <br>
+
+Target Performance Specification: 1. Overshoot ≤ 10%, 2. Rise Time ≤ 3s, 3.Settling Time ≤ 15s, 4. Steady State Error ≤ 1%
 
 <hr>
 <h2>Ciruit and Motor Free Body Diagrams</h3>
